@@ -6,7 +6,7 @@ Our working area is usually one of the topics **devops**, **content management**
 
 ## Devops
 
-* [omnios-build](https://github.com/jfqd/omnios-build) - Build repository for userland stuff we need for our OmniOS 151006 LTS
+* [omnios-build](https://github.com/jfqd/omnios-build) - Build repository for userland stuff we need for our OmniOS 151014 LTS
 * [OpenSourceList](https://github.com/jfqd/OpenSourceList) - List open source projects and their current versions to make the life of package maintainers easier.
 * [puppet-module-build](https://github.com/jfqd/puppet-module-build) - Puppet module for building tools or libraries from source if no distribution package is available
 * [DynDNS](https://github.com/jfqd/dyndns) - Sinatra Web-App for PowerDNS with MySQL Backend
