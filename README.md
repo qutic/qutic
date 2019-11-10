@@ -1,12 +1,12 @@
-# qutic
+# qutic development GmbH
 
-Thank you for your interest in our open source work. We do have over 100 Open Source repositories on Github.
+Thank you for your interest in our open source work. We do have over 130 Open Source repositories on Github.
 
 Our working area is usually one of the topics **devops**, **content management** and **project management**.
 
 ## Devops
 
-* [mi-qutic-base](https://github.com/jfqd/mi-qutic-base) - SmartOS Base Image, 20 others available
+* [mi-qutic-base](https://github.com/jfqd/mi-qutic-base) - SmartOS Base Image, 32 others available
 * [puppet-module-build](https://github.com/jfqd/puppet-module-build) - Puppet module for building tools or libraries from source if no distribution package is available
 * [DynDNS](https://github.com/jfqd/dyndns) - Sinatra Web-App for PowerDNS with MySQL Backend
 * [haproxy-api](https://github.com/jfqd/haproxy-api) - Web-App to enable or disable haproxy backends
@@ -24,4 +24,4 @@ Our working area is usually one of the topics **devops**, **content management**
 * [redmine_email_login](https://github.com/jfqd/redmine_email_login) - Redmine plugin for login by email or username
 * [redmine_hide_estimated_hours](https://github.com/jfqd/redmine_hide_estimated_hours) - Hide estimated hours from Redmine
 
-More repositories can be found in the github accounts of the team members [@jfqd](https://github.com/jfqd), and [@radiantmagic](https://github.com/radiantmagic).
+More repositories can be found in the github accounts of team members [@jfqd](https://github.com/jfqd), and [@radiantmagic](https://github.com/radiantmagic).
